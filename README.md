@@ -4,5 +4,5 @@ Covers the full cycle: from data preprocessing and model training to model track
 
 
 # Results
-ROC-AUC = 0.78
+ROC-AUC = 0.78,
 Gini index = 0.55
