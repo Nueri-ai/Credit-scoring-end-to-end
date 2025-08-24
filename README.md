@@ -3,9 +3,6 @@ Allows to predict customer's credit scoring class.
 Covers the full cycle: from data preprocessing and model training to model tracking via **MLflow**, deployment by **FastAPI**, containerization by **Docker**.
 
 
-# Results
-
-| Model | ROC-AUC | Gini index |
 <h2>Results</h2>
 
 <table>
