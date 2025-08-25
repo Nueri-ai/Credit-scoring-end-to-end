@@ -1,6 +1,6 @@
 # Credit scoring prediction
 Allows to predict customer's credit scoring class.
-Covers the full cycle: from data preprocessing and model training to model tracking via **MLflow**, deployment by **FastAPI**, containerization by **Docker**.
+Covers the full cycle: from data preprocessing and model training to model tracking via **MLflow**, deployment by **Streamlit**.
 
 
 <h2>Results</h2>
